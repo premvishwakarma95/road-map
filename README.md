@@ -5,3 +5,4 @@
 - Vox Assist: A self-hosted voice agent platform connecting Twilio Media Streams with the OpenAI Realtime API. He describes interruptions, HTTP tool calls, and live WebSocket transcripts, with sub-second latency as a stated goal/result.
 - Deployment: He describes a Jenkins → AWS CodeBuild → ECR → EC2/Nginx pipeline with health checks and automatic rollback.
 - Machine Learning intern
+- ClawGen — an LLM agent with 17 tools that turns a short description into a runnable OpenClaw project, with skill research, clarification, and an architecture view on a React Flow canvas; also associated with IBR InfoTech.
