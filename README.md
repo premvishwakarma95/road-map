@@ -7,6 +7,7 @@
 - Machine Learning intern
 - ClawGen — an LLM agent with 17 tools that turns a short description into a runnable OpenClaw project, with skill research, clarification, and an architecture view on a React Flow canvas; also associated with IBR InfoTech.
 - AI Agents, LangGraph, RAG, LangChain, FastAPI, Twilio, Next.js, React.js, Node.js, MongoDB, Docker, and AWS
+- He posts explanatory carousels and project updates on voice AI latency and interruption, prompt engineering, agent memory, function calling, RAG chunking, hallucinations, context windows, tokenization, and multi-agent coordination. One visible post discusses hands-on local model evaluation; another demonstrates a browser voice agent with a latency display. This activity makes his specialization visible beyond the static profile.
 
 ## Skills
 - openai 
