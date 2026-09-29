@@ -6,6 +6,7 @@
 - Deployment: He describes a Jenkins → AWS CodeBuild → ECR → EC2/Nginx pipeline with health checks and automatic rollback.
 - Machine Learning intern
 - ClawGen — an LLM agent with 17 tools that turns a short description into a runnable OpenClaw project, with skill research, clarification, and an architecture view on a React Flow canvas; also associated with IBR InfoTech.
+- AI Agents, LangGraph, RAG, LangChain, FastAPI, Twilio, Next.js, React.js, Node.js, MongoDB, Docker, and AWS
 
 ## Skills
 - openai 
